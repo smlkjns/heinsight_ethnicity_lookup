@@ -1,0 +1,38 @@
+ucas_code,hesa_legacy_code,hesa_df_code,ofs_code,ofs_name,hesa_legacy_name,hesa_df_name,ofs_group
+33,33,100,A_01,Asian or Asian British - Bangladeshi,Asian or Asian British - Bangladeshi,Asian - Bangladeshi or Bangladeshi British,Asian
+34,34,101,A_02,Asian or Asian British - Chinese,Chinese,Asian - Chinese or Chinese British,Asian
+31,31,103,A_03,Asian or Asian British - Indian,Asian or Asian British - Indian,Asian - Indian or Indian British,Asian
+32,32,104,A_04,Asian or Asian British - Pakistani,Asian or Asian British - Pakistani,Asian - Pakistani or Pakistani British,Asian
+39,39,119,A_05,Asian or Asian British - other,Other Asian background,Any other Asian background,Asian
+22,22,120,B_01,Black or black British - African,Black or Black British - African,Black - African or African British,Black
+21,21,121,B_02,Black or black British - Caribbean,Black or Black British - Caribbean,Black - Caribbean or Caribbean British,Black
+29,29,139,B_03,Black or black British - other,Other Black background,Any other Black background,Black
+43,43,140,M_01,Mixed - white and Asian,Mixed - White and Asian,Mixed or multiple ethnic groups - White or White British and Asian or Asian British,Mixed
+42,42,141,M_02,Mixed - white and black African,Mixed - White and Black African,Mixed or multiple ethnic groups - White or White British and Black African or Black African British,Mixed
+41,41,142,M_03,Mixed - white and black Caribbean,Mixed - White and Black Caribbean,Mixed or multiple ethnic groups - White or White British and Black Caribbean or Black Caribbean British,Mixed
+49,49,159,M_04,Mixed - other,Other mixed background,Any other Mixed or Multiple ethnic background,Mixed
+50,50,180,O_01,Other ethnic group,Arab,,Other
+80,80,899,O_01,Other ethnic group,Other ethnic background,Any other ethnic background,Other
+,14,,O_02,Gypsy or Traveller,Irish Traveller,,Other
+16,15,,O_02,Gypsy or Traveller,Gypsy or Traveller,,Other
+11,10,,W_04,White,White,,White
+,11,166,W_04,White,White - Irish,White - Irish,White
+,12,160,W_04,White,"White - English, Welsh, Scottish, Northern Irish, British","White - English, Welsh, Scottish, Northern Irish, British",White
+,13,169,W_04,White,White - Scottish,,White
+,19,,W_04,White,Other White background,,White
+,16,,W_04,White,White - Other British,,White
+99,90,997,,,Not known,Not known,
+90,98,998,,,Information refused,Prefer not to say,
+98,98,998,,,Information refused,Prefer not to say,
+,,999,,,,Not available,
+,,161,,,,"White - English, Welsh, Northern Irish or British",
+,,162,,,,"White - British, Irish, Northern Irish, English, Scottish or Welsh",
+,,167,,,,White - Polish,
+,,170,,,,White - Showman / Showwoman,
+,,163,,,,White - Gypsy or Irish Traveller,
+,,164,,,,White - Gypsy or Traveller,
+,,165,,,,White-Irish traveller,
+,,168,,,,White - Roma,
+,,179,,,,Any other White background,
+,,102,,,,Asian - Filipino,
+10,10,,W_04,White,White,,White
